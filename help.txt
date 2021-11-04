@@ -1,0 +1,20 @@
+La plantilla incluye la base de datos creada en MySQL, localizada en la carpeta "database", solo tiene que importar el archivo a su base de datos de su servidor.
+
+Para la creacion de usuarios administradores, debe ingresar al archivo registro_admin.html, que se encuentra localizado en la carpeta raiz del proyecto.
+
+Los datos de acceso por defecto son los siguientes:
+
+******* DATOS DE ACCESO: *******
+
+Usuario cliente:
+Usuario =  Daniel11
+Contrase�a = Dany&h10
+
+Usuario administrador:
+Usuario = Daniel10
+Contrase�a = Dany&h10
+
+Cualquier duda, comenta en la publicacion o envia un mensaje a:
+
+dhernandez@dhwebdesignmx.com
+https://dhwebdesignmx.com
