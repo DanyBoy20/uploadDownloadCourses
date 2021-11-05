@@ -75,7 +75,7 @@ if ( !isset( $_SESSION[ 'identificador' ] ) ) {
           <h6 class="titulosfooter my-4">
             EMPRESA
           </h6> 
-          <img src="img/LOGO_DH_ESCOLAR_FOOTER.png" class="img-fluid" alt="LOGO INICIO">
+          <img src="../img/LOGO_DH_ESCOLAR_FOOTER.png" class="img-fluid" alt="LOGO INICIO">
           <P class="text-justify">Somos una empresa dedicada a la enseñanza en línea, a través de cursos descargables totalmente gratuitos.</P>   
         </div>
         <div class="fondo col-sm-12 col-md-4 px-5">
